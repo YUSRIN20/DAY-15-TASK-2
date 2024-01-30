@@ -1,8 +1,11 @@
-# Dynamic Calculator
-
 # DAY-15-TASK-2
 
+# Dynamic Calculator
+
 This repository contains a dynamic calculator implemented using HTML, CSS, and JavaScript. The calculator is created entirely in the Document Object Model (DOM), leveraging the power of JavaScript to manipulate and generate HTML elements dynamically.
+
+## Demo
+Check out the live demo [here](https://calculator-demo-yus.netlify.app/).
 
 ## Features
 - **Interactive Interface:** The calculator features a user-friendly interface with buttons for digits, arithmetic operations, and additional functionalities.
@@ -23,4 +26,5 @@ This repository contains a dynamic calculator implemented using HTML, CSS, and J
 The calculator also supports keyboard input for a seamless user experience. Allowed keys include digits, arithmetic operators, and the equal sign. Invalid inputs trigger informative alerts to guide the user.
 
 Feel free to explore and contribute to this repository, making it a collaborative project for further enhancements and improvements in functionality and design.
+
 
